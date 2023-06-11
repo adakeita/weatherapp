@@ -11,6 +11,10 @@ body {
   font-size: 120%;
 }
 
+.page-container {
+width: 100%;
+}
+
 .card {
   background: #000000d0;
   color: white;
