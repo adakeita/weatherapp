@@ -50,7 +50,7 @@ Installation:
 
 Clone repo from GitHub:
 
-{{git clone https://github.com/adakeita/js1.git}}
+{{git clone https://github.com/adakeita/weatherapp.git}}
 
 
 
