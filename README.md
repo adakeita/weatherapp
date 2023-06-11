@@ -6,7 +6,7 @@ Weather app
 
 An app that can show weather anywhere, searchable and featuring images from each place upon search. 
 
-![Model]("https://github.com/adakeita/js1/blob/main/unnamed.png")
+![Model](https://github.com/adakeita/js1/blob/main/unnamed.png)
 
 The pages of the site:
 
